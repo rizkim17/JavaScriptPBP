@@ -1,4 +1,3 @@
-//There is an Array of objects that store MotoGP event data as follows:
 var motoGP = [
     {
       circuit: "Losail",
